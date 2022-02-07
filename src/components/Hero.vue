@@ -1,6 +1,6 @@
 <template>
   <div class="jumbotron">
-    <p>Partiamo dalle basi...</p>
+    <img src="@/assets/img/vue.png" alt="">
   </div>
 </template>
 

@@ -13,5 +13,8 @@ export default {
 <style>
   .title {
     text-align: center;
+    background-color: red;
+    line-height: 100px;
+    height: 100px;
   }
 </style>
