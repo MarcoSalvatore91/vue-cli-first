@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style>
-
+    .jumbotron {
+        text-align: center;
+    }
 </style>
